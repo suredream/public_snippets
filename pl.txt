@@ -1,0 +1,5 @@
+sagemaker>=2.48.0
+transformers==4.12.3
+datasets[s3]==1.18.3
+pytorch-lightning
+lightning-bolts
